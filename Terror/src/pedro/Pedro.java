@@ -1,4 +1,4 @@
-b package pedro;
+package pedro;
 
 public class Pedro {
 
