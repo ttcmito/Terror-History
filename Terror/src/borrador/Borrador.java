@@ -5,12 +5,7 @@ public class Borrador {
 	public static void main(String[] args) {
 		
 		
-		System.out.println("Pedro llegó al puente. Las flechas lo llevaron hasta allí. En el centro del arco de piedra,\n"
-				+ "la figura de una niña apareció bajo la tenue luz de su linterna. Tenía los ojos vacíos, pero en ellos\n"
-				+ "habitaba una rabia que quemaba más que el frío de la noche.");
-		System.out.println();
-		System.out.println("—¿Quién eres? —preguntó Pedro, dando un paso atrás.");
-		System.out.println();
+		
 		System.out.println("—Soy Shiro —respondió la figura, con una voz helada que resonaba como un eco—. Tu padre sabe\n"
 				+ "quién soy.");
 		System.out.println();

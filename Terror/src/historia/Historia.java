@@ -48,7 +48,8 @@ public class Historia {
 				+ "la figura de una niña apareció bajo la tenue luz de su linterna. Tenía los ojos vacíos, pero en ellos\n"
 				+ "habitaba una rabia que quemaba más que el frío de la noche.");
 		System.out.println();
-			
+		System.out.println("—¿Quién eres? —preguntó Pedro, dando un paso atrás.");
+		System.out.println();
 		}
 	}
 

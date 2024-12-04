@@ -27,7 +27,7 @@ public class Jose {
 				+ "Mostraba una dualidad: podía ser amable en ocasiones, pero también tenía impulsos incontrolables y un lado perturbador\n"
 				+ "Su falta de empatía lo llevó a cometer un acto atroz que reveló el caos interior que siempre había intentado esconder.");
 		
-
+		
 	}
 
 }

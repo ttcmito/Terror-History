@@ -13,7 +13,7 @@ public class Pedro {
 		
 		System.out.println("APARIENCIA FÍSICA \n"
 				+ "Con 1.65 metros de estatura, impresionante para sus 14 años, Pedro es un chico de piel clara,\n"
-				+ "cabello negro azabache y ojos castaños que reflejan curiosidad. Su complexión delgada le da un aire ágil y juvenil,\n"
+				+ "cabello n1egro azabache y ojos castaños que reflejan curiosidad. Su complexión delgada le da un aire ágil y juvenil,\n"
 				+ "propio de su edad.");
 		System.out.println();
 		
