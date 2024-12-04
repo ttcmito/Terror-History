@@ -53,6 +53,10 @@ public class Historia {
 		System.out.println("—Soy Shiro —respondió la figura, con una voz helada que resonaba como un eco—. Tu padre sabe\n"
 				+ "quién soy.");
 		System.out.println();
+		System.out.println("José llegó en ese momento, corriendo a toda prisa. Su rostro se congeló al ver a la niña.\n"
+				+ "Reconoció aquel rostro pálido, ahora deformado por el odio. Su mirada descendió a la mano de Shiro,\n"
+				+ "donde el resplandor de una linterna reveló algo que le heló el alma: un anillo con el dibujo de una pirámide.");
+		System.out.println();
 		}
 	}
 

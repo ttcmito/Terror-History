@@ -7,10 +7,7 @@ public class Borrador {
 		
 		
 		
-		System.out.println("José llegó en ese momento, corriendo a toda prisa. Su rostro se congeló al ver a la niña.\n"
-				+ "Reconoció aquel rostro pálido, ahora deformado por el odio. Su mirada descendió a la mano de Shiro,\n"
-				+ "donde el resplandor de una linterna reveló algo que le heló el alma: un anillo con el dibujo de una pirámide.");
-		System.out.println();
+		
 		System.out.println("—¡No! —gritó José, cayendo de rodillas frente a la figura—. ¡Por favor, Shiro! ¡Perdóname!");
 		System.out.println();
 		System.out.println("Pedro observaba, confundido.");
