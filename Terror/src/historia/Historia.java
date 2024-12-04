@@ -57,6 +57,12 @@ public class Historia {
 		
 		System.out.println("—¡No! —gritó José, cayendo de rodillas frente a la figura—. ¡Por favor, Shiro! ¡Perdóname!");
 		System.out.println();
+		
+		System.out.println("Pedro observaba, confundido.");
+		System.out.println();
+		System.out.println("—¿Qué está pasando? Papá, ¿qué significa esto? —dijo Pedro, mirando a su padre con ojos llenos\n"
+				+ "de miedo.");
+		System.out.println();
 		}
 	}
 
