@@ -1,8 +1,5 @@
 package historia;
 
-import java.util.Iterator;
-import java.util.concurrent.ForkJoinPool;
-
 public class Historia {
 
 	public static void main(String[] args) {
