@@ -4,12 +4,6 @@ public class Borrador {
 
 	public static void main(String[] args) {
 		
-		System.out.println("—Tu padre fue mi asesino hace muchos años —dijo Shiro, con una voz que resonaba como un eco helado\n"
-				+ "en la noche—. Lo supe en el instante en que vi ese anillo en su mano, el anillo con una pirámide grabada.\n"
-				+ "Esa imagen fue lo último que mis ojos vieron antes de morir.");
-		System.out.println();
-		System.out.println("José sollozó, incapaz de contener la verdad.");
-		System.out.println();
 		System.out.println("—Shiro... Era un hombre desesperado. Quería vivir en esa mansión, y tú eras un obstáculo. Pero nunca\n"
 				+ "imaginé que mi pecado me alcanzaría aquí, en esta casa, tantos años después.");
 		System.out.println();

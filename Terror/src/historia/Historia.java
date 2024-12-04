@@ -63,6 +63,12 @@ public class Historia {
 		System.out.println("—¿Qué está pasando? Papá, ¿qué significa esto? —dijo Pedro, mirando a su padre con ojos llenos\n"
 				+ "de miedo.");
 		System.out.println();
+		System.out.println("—Tu padre fue mi asesino hace muchos años —dijo Shiro, con una voz que resonaba como un eco helado\n"
+				+ "en la noche—. Lo supe en el instante en que vi ese anillo en su mano, el anillo con una pirámide grabada.\n"
+				+ "Esa imagen fue lo último que mis ojos vieron antes de morir.");
+		System.out.println();
+		System.out.println("José sollozó, incapaz de contener la verdad.");
+		System.out.println();
 		}
 	}
 
