@@ -37,7 +37,10 @@ public class Historia {
 		System.out.println("En el piso superior, José, su padre, despertó sobresaltado, una extraña opresión en el pecho.\n"
 				+ "Se asomó al pasillo y no vio a Pedro. Un mal presentimiento lo envolvió. Bajó corriendo las escaleras y\n"
 				+ "lo vio: su hijo, con la linterna en mano, avanzando hacia la puerta trasera.");	
-		
+		System.out.println();
+		System.out.println("—¡Pedro! —gritó, pero el muchacho no se detuvo, como si algo más allá de su voluntad\n"
+				+ "lo empujara a seguir.");
+		System.out.println();
 	}
 
 }
