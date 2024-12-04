@@ -50,6 +50,9 @@ public class Historia {
 		System.out.println();
 		System.out.println("—¿Quién eres? —preguntó Pedro, dando un paso atrás.");
 		System.out.println();
+		System.out.println("—Soy Shiro —respondió la figura, con una voz helada que resonaba como un eco—. Tu padre sabe\n"
+				+ "quién soy.");
+		System.out.println();
 		}
 	}
 
