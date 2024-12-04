@@ -4,13 +4,6 @@ public class Borrador {
 
 	public static void main(String[] args) {
 		
-		
-		System.out.println("—¿Inocente? —replicó Shiro, con una furia creciente—. Mi vida fue arrebatada. Mi padre murió de tristeza.\n"
-				+ "Yo perdí todo. Ahora, tú perderás lo mismo.");
-		System.out.println();
-		System.out.println("Shiro extendió sus manos hacia Pedro, que estaba paralizado por el miedo. La linterna cayó al suelo, rodando\n"
-				+ "y dejando a ambos en la penumbra. José, en un acto desesperado, se abalanzó hacia Shiro.");
-		System.out.println();
 		System.out.println("—¡Llévame a mí! ¡Déjalo a él!");
 		System.out.println();
 		System.out.println("Pero la decisión de Shiro ya estaba tomada. Un grito desgarrador resonó en la noche cuando Pedro cayó al suelo, inerte.");

@@ -77,6 +77,12 @@ public class Historia {
 		System.out.println("—Lo siento —murmuró José, lágrimas rodando por sus mejillas—. Pero, por favor, no le hagas daño a mi hijo.\n"
 				+ "Es inocente.");
 		System.out.println();
+		System.out.println("—¿Inocente? —replicó Shiro, con una furia creciente—. Mi vida fue arrebatada. Mi padre murió de tristeza.\n"
+				+ "Yo perdí todo. Ahora, tú perderás lo mismo.");
+		System.out.println();
+		System.out.println("Shiro extendió sus manos hacia Pedro, que estaba paralizado por el miedo. La linterna cayó al suelo, rodando\n"
+				+ "y dejando a ambos en la penumbra. José, en un acto desesperado, se abalanzó hacia Shiro.");
+		System.out.println();
 		}
 	}
 
