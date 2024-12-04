@@ -1,5 +1,8 @@
 package historia;
 
+import java.util.Iterator;
+import java.util.concurrent.ForkJoinPool;
+
 public class Historia {
 
 	public static void main(String[] args) {
@@ -41,6 +44,12 @@ public class Historia {
 		System.out.println("—¡Pedro! —gritó, pero el muchacho no se detuvo, como si algo más allá de su voluntad\n"
 				+ "lo empujara a seguir.");
 		System.out.println();
+		System.out.println("Pedro llegó al puente. Las flechas lo llevaron hasta allí. En el centro del arco de piedra,\n"
+				+ "la figura de una niña apareció bajo la tenue luz de su linterna. Tenía los ojos vacíos, pero en ellos\n"
+				+ "habitaba una rabia que quemaba más que el frío de la noche.");
+		System.out.println();
+			
+		}
 	}
 
-}
+
